@@ -60,7 +60,7 @@
 &kp LSHFT &kp Z  &kp X  &kp C    &kp V    &kp D                                     &kp K  &kp H    &kp COMMA &kp DOT &kp FSLH   &kp RSHFT
                  &kp LBKT  &kp RBKT                                                                &kp LBKT  &kp RBKT
                         &kp LGUI &lt LOWER SPACE &kp LCTRL                          &kp BSPC &lt RAISE RET  &kp DEL
-                                 &kp LALT  &tog LOWER                               &tog RAISE &kp RET
+                                 &kp LALT  &tog LOWER                               &tog RAISE &studio_unlock
             >;
 
             sensor-bindings = <&inc_dec_kp C_VOL_UP C_VOL_DN>;

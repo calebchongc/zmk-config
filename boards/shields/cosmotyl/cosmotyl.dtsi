@@ -9,7 +9,8 @@
  
  / {
      chosen {
-         zmk,physical-layout = &physical_layout0;
+        zmk,kscan = &kscan0;
+        zmk,physical-layout = &physical_layout0;
      };
  
      default_transform: keymap_transform {
