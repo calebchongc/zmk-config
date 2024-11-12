@@ -58,7 +58,7 @@
 &kp ESC   &kp A  &mmv MOVE_LEFT &mmv MOVE_DOWN  &mmv MOVE_RIGHT &kp G                                     &kp M  &kp N    &kp E     &kp I   &kp O      &kp SQT
 &kp LSHFT &kp Z  &kp X  &kp C    &kp V    &kp D                                     &kp K  &kp H    &kp COMMA &kp DOT &kp FSLH   &kp RSHFT
                  &kp LBKT  &kp RBKT                                                                &kp LBKT  &kp RBKT
-                        &kp LGUI &lt LOWER SPACE &kp LCTRL                          &kp BSPC &lt RAISE RET  &kp DEL
+                        &kp LGUI &lt LOWER SPACE &bootloader                          &kp BSPC &lt RAISE RET  &kp DEL
                                  &kp LALT  &studio_unlock                               &tog RAISE &studio_unlock
             >;
 
@@ -86,9 +86,7 @@
                         &kp LGUI &lt LOWER SPACE &kp LCTRL                          &kp BSPC &lt RAISE RET  &kp DEL
                                  &kp LALT  &tog LOWER                               &tog RAISE &kp RET
 
-          &kp LALT  &tog LOWER                               &tog RAISE &kp RET
 
-            >;
 
             sensor-bindings = <&inc_dec_kp C_VOL_UP C_VOL_DN>;
         };
