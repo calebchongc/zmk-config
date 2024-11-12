@@ -26,4 +26,6 @@ include:
     shield: cosmotyl_left
     snippet: studio-rpc-usb-uart
   - board: nice_nano_v2
-    shield: cosmotyl_right
+    shield: cosmotyl_right 
+  - board: nice_nano_v2
+    shield: settings_reset 
