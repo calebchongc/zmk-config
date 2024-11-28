@@ -87,7 +87,7 @@
                  &kp LBKT  &kp RBKT                                                                &kp LBKT  &kp RBKT
                         &kp LGUI &lt LOWER SPACE &kp LCTRL                          &kp BSPC &lt RAISE RET  &kp DEL
                                  &kp LALT  &tog LOWER                               &tog RAISE &kp RET
-
+            >;
 
 
             sensor-bindings = <&inc_dec_kp C_VOL_UP C_VOL_DN>;
