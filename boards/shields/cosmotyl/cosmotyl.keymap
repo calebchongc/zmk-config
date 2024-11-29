@@ -86,7 +86,7 @@
 &kp ESC   &kp A  &kp R  &kp S    &kp T    &kp G                                     &kp M  &kp LEFT    &kp DOWN     &kp RIGHT   &kp O      &kp SQT
 &kp LSHFT &kp Z  &kp X  &kp C    &kp V    &kp D                                     &kp K  &kp H    &kp COMMA &kp DOT &kp FSLH   &kp EQUAL
                  &kp LBKT  &kp RBKT                                                                &kp LBKT  &kp RBKT
-                        &kp LGUI &lt LOWER SPACE &kp LCTRL                          &bootloader BSPC &lt RAISE RET  &kp DEL
+                        &kp LGUI &lt LOWER SPACE &kp LCTRL                          &bootloader &lt RAISE RET  &kp DEL
                                  &kp LALT  &tog LOWER                               &tog RAISE &kp RET
             >;
 
