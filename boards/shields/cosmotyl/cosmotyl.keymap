@@ -37,7 +37,7 @@
 &kp GRAVE &kp N1   &kp N2 &kp N3   &kp N4   &kp N5                                  &kp N6 &kp N7   &kp N8    &kp N9  &kp N0     &kp MINUS
 &kp TAB   &kp Q  &kp W  &kp F    &kp P    &kp B                                     &kp J  &kp L    &kp U     &kp Y   &kp SEMI   &kp BSLH
 &kp ESC   &kp A  &kp R  &kp S    &kp T    &kp G                                     &kp M  &kp N    &kp E     &kp I   &kp O      &kp SQT
-&kp LSHFT &kp Z  &kp X  &kp C    &kp V    &kp D                                     &kp K  &kp H    &kp COMMA &kp DOT &kp FSLH   &kp EQUAL
+&kp LSHFT &kp Z  &kp X  &kp C    &kp D    &kp V                                     &kp K  &kp H    &kp COMMA &kp DOT &kp FSLH   &kp EQUAL
                  &kp LBKT  &kp RBKT                                                                &key_repeat  &kp RBKT
                         &kp LGUI &lt LOWER SPACE &kp LCTRL                          &kp BSPC &lt RAISE RET  &kp DEL
                                  &kp LALT  &tog LOWER                               &tog RAISE &kp RET
@@ -58,7 +58,7 @@
 &bt BT_CLR &bt BT_SEL 0     &bt BT_SEL 1      &bt BT_SEL 2      &bt BT_SEL 3 &bt BT_SEL 4                 &trans    &trans    &trans    &trans    &trans    &trans
 &kp F1  &trans   &mkp LCLK  &mmv MOVE_UP     &mkp RCLK             &kp F5       &kp F6                       &kp F7    &kp F8    &kp F9    &kp F10   &kp F11   &kp F12
 &kp ESC   &kp A  &mmv MOVE_LEFT &mmv MOVE_DOWN  &mmv MOVE_RIGHT &kp G                                     &kp M  &kp N    &kp E     &kp I   &kp O      &kp SQT
-&kp LSHFT &kp Z  &kp X  &kp C    &kp V    &kp D                                     &kp K  &kp H    &kp COMMA &kp DOT &kp FSLH   &kp RSHFT
+&kp LSHFT &kp Z  &kp X  &kp C    &kp D    &kp V                                     &kp K  &kp H    &kp COMMA &kp DOT &kp FSLH   &kp RSHFT
                  &kp LBKT  &kp RBKT                                                                &kp LBKT  &kp RBKT
                         &kp LGUI &lt LOWER SPACE &bootloader                          &kp BSPC &lt RAISE RET  &kp DEL
                                  &studio_unlock  &tog LOWER                                 &tog RAISE &studio_unlock
@@ -83,7 +83,7 @@
 &kp GRAVE &kp N1   &kp N2 &kp N3   &kp N4   &kp N5                                  &kp N6 &kp N7   &kp N8    &kp N9  &kp N0     &kp MINUS
 &kp TAB   &kp Q  &kp W  &kp F    &kp P    &kp B                                     &kp J  &kp HOME    &kp UP     &kp END   &kp SEMI   &kp BSLH
 &kp ESC   &kp A  &kp R  &kp S    &kp T    &kp G                                     &kp M  &kp LEFT    &kp DOWN     &kp RIGHT   &kp O      &kp SQT
-&kp LSHFT &kp Z  &kp X  &kp C    &kp V    &kp D                                     &kp K  &kp H    &kp COMMA &kp DOT &kp FSLH   &kp RSHFT
+&kp LSHFT &kp Z  &kp X  &kp C    &kp D    &kp V                                     &kp K  &kp H    &kp COMMA &kp DOT &kp FSLH   &kp RSHFT
                  &kp LBKT  &kp RBKT                                                                &kp LBKT  &kp RBKT
                         &kp LGUI &lt LOWER SPACE &kp LCTRL                          &bootloader &lt RAISE RET  &kp DEL
                                  &kp LALT  &tog LOWER                               &tog RAISE &trans
