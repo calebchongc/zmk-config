@@ -40,7 +40,7 @@
 &kp ESC   &kp A  &kp R  &kp S    &kp T    &kp G                                     &kp M  &kp N    &kp E     &kp I   &kp O      &kp SQT
 &kp LSHFT &kp Z  &kp X  &kp C    &kp D    &kp V                                     &kp K  &kp H    &kp COMMA &kp DOT &kp FSLH   &kp EQUAL
                  &kp LBKT  &kp RBKT                                                                &kp LBKT  &kp RBKT
-                        &kp LCTRL &lt LOWER SPACE &kp LGUI                          &kp BSPC &lt RAISE RET  &kp DEL
+                        &kp LCTRL &lt LOWER SPACE &kp LGUI                          &kp DEL &lt RAISE RET  &kp BSPC
                                  &kp LALT  &tog LOWER                               &tog RAISE &kp RET
 
             >;
@@ -61,7 +61,7 @@
 &kp ESC   &kp A  &kp R  &kp S    &kp T    &kp G                                     &kp M  &kp N    &kp E     &kp I   &kp O      &kp SQT
 &kp LSHFT &kp Z  &kp X  &kp C    &kp D    &kp V                                     &kp K  &kp H    &kp COMMA &kp DOT &kp FSLH   &kp EQUAL
                  &kp LBKT  &kp RBKT                                                                &kp LBKT  &kp RBKT
-                        &kp LCTRL &lt LOWER SPACE &bootloader                          &kp BSPC &lt RAISE RET  &kp DEL
+                        &kp LCTRL &lt LOWER SPACE &bootloader                          &kp DEL &lt RAISE RET  &kp BSPC
                                  &studio_unlock  &tog LOWER                                 &tog RAISE &studio_unlock
             >;
 
@@ -86,7 +86,7 @@
 &kp ESC   &kp A  &kp R  &kp S    &kp T    &kp G                                     &kp M  &kp LEFT    &kp DOWN     &kp RIGHT   &kp O      &kp SQT
 &kp LSHFT &kp Z  &kp X  &kp C    &kp D    &kp V                                     &kp K  &kp H    &kp COMMA &kp DOT &kp FSLH   &kp EQUAL
                  &kp LBKT  &kp RBKT                                                                &kp LBKT  &kp RBKT
-                        &kp LCTRL &lt LOWER SPACE &kp LGUI                          &bootloader &lt RAISE RET  &kp DEL
+                        &kp LCTRL &lt LOWER SPACE &kp LGUI                          &bootloader &lt RAISE RET  &kp BSPC
                                  &kp LALT  &tog LOWER                               &tog RAISE &kp RET
             >;
 
