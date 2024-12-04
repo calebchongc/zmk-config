@@ -91,7 +91,7 @@
                         &kp LCTRL &lt LOWER SPACE &kp LGUI                          &bootloader &lt RAISE RET  &kp BSPC
                                  &kp LALT  &tog LOWER                               &tog RAISE &kp RET
 
-
+            >;
 
             sensor-bindings = <&inc_dec_kp C_VOL_UP C_VOL_DN>;
         };
