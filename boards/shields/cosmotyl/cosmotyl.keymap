@@ -59,7 +59,7 @@
 &bt BT_CLR &bt BT_SEL 0     &bt BT_SEL 1      &bt BT_SEL 2      &bt BT_SEL 3 &bt BT_SEL 4                 &trans    &trans    &trans    &trans    &trans    &trans
 &kp F1     &kp F2           &kp F3            &kp F4            &kp F5       &kp F6                       &kp F7    &kp F8    &kp F9    &kp F10   &kp F11   &kp F12
 &kp ESC   &kp A  &kp R  &kp S    &kp T    &kp G                                     &kp M  &kp N    &kp E     &kp I   &kp O      &kp SQT
-&kp LSHFT &kp Z  &kp X  &kp C    &kp D    &kp V                                     &kp K  &kp H    &kp COMMA &kp DOT &kp FSLH   &kp EQUAL
+&kp LSHFT &kp Z  &kp C_MUTE  &kp C_VOL_DN    &kp C_VOL_UP    &kp V                              &kp K  &kp H    &kp COMMA &kp DOT &kp FSLH   &kp EQUAL
                  &kp LBKT  &kp RBKT                                                                &kp LBKT  &kp RBKT
                         &kp LCTRL &lt LOWER SPACE &bootloader                          &kp DEL &lt RAISE RET  &kp BSPC
                                  &studio_unlock  &tog LOWER                                 &tog RAISE &studio_unlock
