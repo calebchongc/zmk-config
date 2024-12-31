@@ -58,12 +58,12 @@
 // |       |     |     |      |      |      |        |  |       |      |  _    |  +    |  {   |   }   |  "|"  |
 //                     |      |      |      |        |  |       |      |       |       |
             bindings = <
-&bt BT_CLR &bt BT_SEL 0  &bt BT_SEL 1  &bt BT_SEL 2   &bt BT_SEL 3 &sys_reset                 &trans    &trans    &trans    &trans    &trans    &trans
+&bt BT_CLR &bt BT_SEL 0  &bt BT_SEL 1  &bt BT_SEL 2   &bt BT_SEL 3 &trans                 &trans    &trans    &trans    &trans    &trans    &trans
 &kp F1  &kp F5  &mkp LCLK  &mmv MOVE_UP  &mkp RCLK       &kp F6                                 &kp F7    &kp F8    &msc SCRL_UP    &kp F10   &kp F11   &kp F12
 &kp ESC   &kp A  &mmv MOVE_LEFT &mmv MOVE_DOWN  &mmv MOVE_RIGHT &kp G                           &kp M  &msc SCRL_LEFT &msc SCRL_DOWN &msc SCRL_RIGHT   &kp O      &kp SQT
 &kp LSHFT &kp Z  &kp C_MUTE  &kp C_VOL_DN    &kp C_VOL_UP    &kp V                              &kp K  &kp H    &kp COMMA &kp DOT &kp FSLH   &kp EQUAL
                  &kp LBKT  &kp RBKT                                                                             &kp LBKT  &kp RBKT
-                        &kp LCTRL &lt LOWER SPACE &bootloader                                   &kp DEL &lt RAISE RET  &kp BSPC
+                        &kp LCTRL &lt LOWER SPACE &trans                                   &kp DEL &lt RAISE RET  &kp BSPC
                                  &studio_unlock  &tog LOWER                                     &tog RAISE &studio_unlock
             >;
 
@@ -78,7 +78,7 @@
 // |   F7  |  F8 |  F9 |  F10 |  F11 |  F12 |        |  |       |  +   |   -   |   =   |  [   |   ]   |   \   |
 //                     |      |      |      |        |  |       |      |       |       |
             bindings = <
-// &trans    &trans &trans &trans  &trans  &trans                       &sys_reset      &trans    &trans    &trans   &trans    &trans
+// &trans    &trans &trans &trans  &trans  &trans                       &trans      &trans    &trans    &trans   &trans    &trans
 // &kp GRAVE &kp N1 &kp N2 &kp N3  &kp N4  &kp N5                       &kp N6      &kp N7    &kp N8    &kp N9   &kp N0    &trans
 // &kp F1    &kp F2 &kp F3 &kp F4  &kp F5  &kp F6                       &trans      &kp LEFT  &kp DOWN  &kp UP   &kp RIGHT &trans
 // &kp F7    &kp F8 &kp F9 &kp F10 &kp F11 &kp F12   &trans   &trans    &kp KP_PLUS &kp MINUS &kp EQUAL &kp LBKT &kp RBKT  &kp BSLH
@@ -88,7 +88,7 @@
 &kp ESC   &kp A  &kp R  &kp S    &kp T    &kp G                                     &kp M  &kp LEFT    &kp DOWN     &kp RIGHT   &kp O      &kp SQT
 &kp LSHFT &kp Z  &kp X  &kp C    &kp D    &kp V                                     &kp K  &kp H    &kp COMMA &kp DOT &kp FSLH   &kp EQUAL
                  &kp LBKT  &kp RBKT                                                                &kp LBKT  &kp RBKT
-                        &kp LCTRL &lt LOWER SPACE &kp LGUI                          &bootloader &lt RAISE RET  &kp BSPC
+                        &kp LCTRL &lt LOWER SPACE &kp LGUI                          &trans &lt RAISE RET  &kp BSPC
                                  &kp LALT  &tog LOWER                               &tog RAISE &kp RET
 
             >;
