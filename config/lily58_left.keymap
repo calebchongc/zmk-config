@@ -17,6 +17,5 @@
         ;
 };
 
-&left_encoder {
-    status = "okay";
-};
+
+#include "lily58_common.keymap"
